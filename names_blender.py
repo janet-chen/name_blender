@@ -44,21 +44,3 @@ def splitSubsequentName(name):
     index = first_vowel(name, 'sub')
     return name[index:]
 
-    
-
-# name_blender(['sam','amy','janet','jamie'])
-# name_blender(['sam','amy','janet','jamie'])
-
-# name_blender(['janet', 'sondra', 'deniz', 'thummim', 'jerry'])
-# name_blender(['janet', 'sondra', 'deniz', 'thummim', 'jerry'])
-
-name_blender(['sondra', 'josh'])
-name_blender(['sondra', 'josh'])
-name_blender(['sondra', 'josh'])
-
-name_blender(['trent','hannah','kenny','nicole','rita','catherine','will','alison','mark','linnea','jayg','ruben','janet','mhiko','cathy','kaiya'])
-
-
-name_blender(['nicole','hannah','linnea'])
-name_blender(['nicole','hannah','linnea'])
-name_blender(['nicole','hannah','linnea'])
